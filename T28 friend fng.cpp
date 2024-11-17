@@ -12,7 +12,7 @@ public:
     int comp(Complex, Complex);
 };
 
-class MyComplex {
+class Complex {
     int a, b; // Private by default
     friend int Cal::real(Complex, Complex); // likhit mai de diye int type ka cal agar call karege real fng ko toh allow kardena 
     friend int Cal::comp(Complex, Complex); // likhit mai de diye int type ka cal agar call karege comp fng ko toh allow kardena 
