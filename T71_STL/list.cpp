@@ -10,3 +10,6 @@
     // Add elements at the back
     ls.push_back(10);
     ls.emplace_back(15);
+
+// rest functions same as vector
+// begin, end, rbegin, rend, clear, insert, size, swap
