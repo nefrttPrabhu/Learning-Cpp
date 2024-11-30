@@ -1,6 +1,6 @@
 /*
-  --> all same as sets bus ye repeat wale bhi stpre kar sakte hi
-  --> inmai bhi sorted hote hi sare elements
+  --> allows repeatation
+  --> all are sorted
 */
 
 
