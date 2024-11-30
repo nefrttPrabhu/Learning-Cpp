@@ -1,4 +1,8 @@
-// help to cope for dynamic array i.e size can be increaded when needed 
+/*
+   --> help to cope for dynamic array i.e size can be increaded when needed 
+   -->vector are stored in single linked list due to which the insertion cost more for it than a list which in tern uses doubly linked list
+*/
+
 
 1. vector<int> v;
 
