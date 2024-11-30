@@ -12,3 +12,6 @@ deque<int> dq;
 
     // Pop an element from the back
     dq.pop_back();      // {20, 10, 40}
+
+// rest functions same as vector
+// begin, end, rbegin, rend, clear, insert, size, swap
