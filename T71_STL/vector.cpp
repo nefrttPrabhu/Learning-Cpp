@@ -68,6 +68,11 @@
 
    v.clear(); // v={}
 
+9. sorting
+   v.sort(v.begin(),v.end());               // sort entire vector
+   v.sort(v.begin(),v.end(),greater<int>);  // sort in reverse order
+   v.sort(v.begin()+2,v.begin()+4);         // sort the range from index 2 to 3
+
 
 
 
