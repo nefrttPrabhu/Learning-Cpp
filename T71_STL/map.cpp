@@ -5,6 +5,7 @@
 
 */
 
+
         map<int, int> mpp1;                                     // {key,value}
 1.      mpp1[1] = 2;         // inside memory it will store as { 1 , 2 }
         mpp1.insert({2, 4}); // new pair {2,4}
